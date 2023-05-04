@@ -1,7 +1,6 @@
 """
 Sample Tests
 """
-from rest_framework import APICLient
 from django.test import SimpleTestCase
 from . import calc
 
